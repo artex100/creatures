@@ -1,5 +1,7 @@
 import Creature from './Creature.jsx';
 
+
+
 function CreatureField() {
     const creatureData =[
         {
@@ -38,7 +40,7 @@ function CreatureField() {
         position: 'relative',
         width: '800px',
         height: '800px',
-        border: '2px solid #ccc',
+        border: '2px solid #cd0202',
         margin: '20px auto',
         backgroundColor: '#6b8c66'
     };
